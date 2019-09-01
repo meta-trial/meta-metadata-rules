@@ -1,0 +1,4 @@
+[run]
+include = meta_metadata_rules/*
+omit = meta_metadata_rules/tests/*,meta_metadata_rules/migrations/*
+branch = 1
